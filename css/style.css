@@ -2159,6 +2159,11 @@ blockquote {
         padding-top: 85px !important;
     }
 
+	#banner {
+		background: url("../images/banner-images/banner-image-m1.png") no-repeat right top;
+		background-size:cover;
+	}
+	
     /*-----------------Sections-----------------*/
 
 	#challenge {
